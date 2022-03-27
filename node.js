@@ -120,3 +120,7 @@ for (let i = 0; i < 5; i++) {
 }
 
 const hhhah = 'main'
+
+
+
+const test2 = 'main2'
